@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "",
+  "ingredients":
+  [
+    { "item": "mccourse:mortys_toes" },
+    { "item": "minecraft:sugar" }
+  ],
+  "result":
+  {
+    "item": "mccourse:candied_toes",
+    "count": 1
+  }
+}

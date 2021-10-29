@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "",
+  "ingredients":
+    [
+      { "item": "mccourse:papa_ingot" },
+      { "item": "mccourse:mama_ingot" },
+      { "item": "mccourse:hannah_ingot" },
+      { "item": "mccourse:morty_ingot" }
+    ],
+  "result":
+  {
+    "item": "mccourse:salzman_block",
+    "count": 1
+  }
+}
